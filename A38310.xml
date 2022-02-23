@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address of the Lords spiritual and temporal to His Majesty in relation to the petition of Charles Desborow, late captain of His Majesty's ship Mary Gally, employ'd in the expedition to Newfoundland in the year 1697 under the command of Captain John Norris : and His Majesty's most gracious answer thereto.</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38310</idno>
+            <idno type="STC">Wing E2801</idno>
+            <idno type="STC">ESTC R29789</idno>
+            <idno type="EEBO-CITATION">11207712</idno>
+            <idno type="OCLC">ocm 11207712</idno>
+            <idno type="VID">46765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address of the Lords spiritual and temporal to His Majesty in relation to the petition of Charles Desborow, late captain of His Majesty's ship Mary Gally, employ'd in the expedition to Newfoundland in the year 1697 under the command of Captain John Norris : and His Majesty's most gracious answer thereto.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed  for Charles Desborow,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Desborow, Charles.</term>
+               <term>Newfoundland --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46765:1"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:46765:1"/>
+            <!-- PDF PAGE 48 -->
+            <p>The Humble ADDRESS OF THE Lords Spiritual and Temporal TO HIS MAJESTY, In Relation to the PETITION of <hi>Charles Desborow,</hi> Late Captain of His MAJESTY's Ship <hi>Mary</hi> Gally, Employ'd in the Expedition to <hi>Newfoundland,</hi> in the Year 1697, under the Command of Captain <hi>John Norris.</hi>
+            </p>
+            <p>AND His Majeſty's moſt Gracious ANSWER thereto.</p>
+            <p>Printed for <hi>Charles Desborow,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:46765:2"/>
+            <!-- PDF PAGE 49 -->
+            <pb facs="tcp:46765:2"/>
+            <!-- PDF PAGE 49 -->
+            <head>To the Right Honourable the LORDS Spiritual and Temporal in Parliament Aſſembled.</head>
+            <head type="sub">The humble Petition of <hi>Charles Desborow:</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THAT Your Petitioner was Commander of His Majeſty's Ship <hi>Mary</hi> Gally, in the Expedi<g ref="char:EOLhyphen"/>tion to <hi>Newfoundland, Anno 1697.</hi> together with Ten Men of War more, Two Fireſhips and Two Bomb-Ketches. The 21ſt of <hi>June,</hi> Mr. <hi>Ponti</hi> appear'd off the Port of St. <hi>John</hi>'s, which gave the faireſt Op<g ref="char:EOLhyphen"/>portunity imaginable to thoſe that were imployed on that Expedition to have taken them, had they then be<g ref="char:EOLhyphen"/>lieved the Intelligence that from time to time was given them by your Petitioner, and others; but inſtead of giving Encouragement to your Petitioner for his readi<g ref="char:EOLhyphen"/>neſs to do ſervice to the Nation, and to cover their own fault, your Petitioner was unjuſtly charged with Breach of Orders, and Neglect of Duty, and diſmiſs'd from his Command; which your Petitioner is ready with
+<pb facs="tcp:46765:3"/>
+               <!-- PDF PAGE 50 -->Witneſſes to prove, either at the Bar of Your Lordſhips Houſe, or as in Your Lordſhips Great Wiſdoms ſhall think meet.</p>
+            <closer>
+               <hi>Wherefore</hi> Your Petitioner moſt humbly Prays, That Your Lordſhips will enquire into Matter of Fact, that Juſtice may be done both in re<g ref="char:EOLhyphen"/>lation to His MAJESTY, the Kingdom of <hi>England,</hi> and your Petitioner, who has been a great Sufferer on this Occaſion; And, as in Duty bound, he ſhall ever Pray. 
+<signed>Cha. Desborow.</signed>
+            </closer>
+         </div>
+         <div type="address">
+            <pb n="1" facs="tcp:46765:3"/>
+            <!-- PDF PAGE 50 -->
+            <head>
+               <date>Die Lunae <hi>17</hi> April. <hi>1699.</hi>
+               </date>
+            </head>
+            <p>WE Your Majeſty's moſt Dutiful and Loyal Subjects, The Lords Spiritual and Temporal in Parliament Aſſembled, Humbly acquaint Your Majeſty, That We have received a Petition from <hi>Charles Desborow,</hi> late Captain of Your Majeſty's Ship the <hi>Mary Gally,</hi> em<g ref="char:EOLhyphen"/>poly'd in the Expedition to <hi>Newfoundland</hi> in the Year 1697. under the Command of Captain <hi>Norris:</hi> Which Petition ſets forth, That on the 21ſt of <hi>July,</hi> 1697. Mon<g ref="char:EOLhyphen"/>ſieur <hi>Ponti</hi> appeared off the Port of St. <hi>John</hi>'s, which gave the faireſt Opportunity imaginable to thoſe that were then employed on that Expedition, to have taken the <hi>French,</hi> if the Intelligence that from time to time was given by the ſaid <hi>Charles Desborow</hi> and others, had been believed: And that inſtead of receiving any En<g ref="char:EOLhyphen"/>couragement for his Readineſs to do Service to the Na<g ref="char:EOLhyphen"/>tion, he was unjuſtly charged with Breach of Orders, and Neglect of Duty, and diſmiſt from his Command.</p>
+            <p>Which We conceived to be a Matter of ſo Ill Conſe<g ref="char:EOLhyphen"/>quence to Your Majeſty's Service, if there were Truth in it, that We thought fit to enter into a particular Exa<g ref="char:EOLhyphen"/>mination upon Oath, of the Allegations of the ſaid Peti<g ref="char:EOLhyphen"/>tion: Wherein the ſaid <hi>Desborow</hi> does acquaint the Com<g ref="char:EOLhyphen"/>mittee of this Houſe, That on the 21ſt of <hi>July</hi> Five <hi>French</hi> Ships appeared off St. <hi>John</hi>'s, which were re<g ref="char:EOLhyphen"/>ported by Priſoners taken, to be part of Monſieur <hi>Neſ<g ref="char:EOLhyphen"/>mond</hi>'s Squadron appointed to Attack St. <hi>John</hi>'s.</p>
+            <pb n="2" facs="tcp:46765:4"/>
+            <!-- PDF PAGE 51 -->
+            <p>That on the 23d of <hi>July,</hi> Four <hi>Engliſhmen</hi> who had been taken Priſoners by <hi>Ponti,</hi> made their Eſcape, and informed him the ſaid <hi>Desborow,</hi> That the Five Ships before-mentioned belonged to <hi>Ponti:</hi> That moſt of his Men were ſick, and that their Proviſions were ſhort. Theſe Four Men informed Commadore <hi>Norris</hi> the ſame thing, and alſo that they came from the <hi>Weſt-Indies;</hi> but he would not believe them.</p>
+            <p>That <hi>Alexander Cumberbatch</hi> (who was a Priſoner with <hi>Ponti,</hi> but being ſent under a Guard to the Shore to get him Proviſions, and liberty to Water) gave us Notice hereof by Letter; and told us, That if we would ſerve our Country, this was the time.</p>
+            <p>That <hi>Edwards</hi> and <hi>Shuttleworth</hi> brought this Letter from <hi>Cumberbatch,</hi> and affirmed the ſame thing, but we would not believe them.</p>
+            <p>That on the 26th of <hi>July</hi> the ſaid <hi>Desborow</hi> was ſent out to diſcover them; and Captain <hi>Littleton</hi> was ſent out the ſame day, or the next, to <hi>Carbonier,</hi> where pur<g ref="char:EOLhyphen"/>ſuing a <hi>French</hi> Boat ſent out from <hi>Ponti,</hi> the <hi>Frenchmen</hi> were forced on Shore, and ſurrendred themſelves to the Merchant-men that kept Guard on the Iſland of <hi>Carbo<g ref="char:EOLhyphen"/>nier,</hi> who brought Five and twenty of them to Captain <hi>Norris,</hi> to whom they owned it was <hi>Ponti</hi>'s Fleet, and not <hi>Neſmond</hi>'s; but he would not believe them, but threatned to Whip them.</p>
+            <p>While this was duing, the ſaid <hi>Desborow</hi> came in, and aſſured them, There were Five <hi>French</hi> Men of War, and no other Ships near them; but neither the <hi>French</hi> Priſoners, <hi>Shuttleworth,</hi> the ſaid <hi>Desborow,</hi> nor the four <hi>Engliſh</hi> that had been Priſoners, could be believed; ſo it was reſolved, Not to go out to ſight them.</p>
+            <p>
+               <hi>William Eſſex</hi> and <hi>Charles H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhfield</hi> being Examined before the ſaid Committee, ſaid much to the ſame Ef<g ref="char:EOLhyphen"/>fect;
+<pb n="3" facs="tcp:46765:4"/>
+               <!-- PDF PAGE 51 -->and particularly, That they heard the four <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Priſoners ſay, That thoſe <hi>French</hi> Veſſels were Five Men of War under <hi>Ponti,</hi> come from <hi>Carthage<g ref="char:EOLhyphen"/>na,</hi> who they ſaid were weakly Manned, and had but little Wood and Water Aboard.</p>
+            <p>And <hi>Cumberbatch</hi> inform'd the ſaid Committee, That when he came out of <hi>France,</hi> the Commiſſioners of the Admiralty gave him 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> and a Medal and Chain of 150 <abbr>
+                  <hi>l.</hi>
+               </abbr> value; and gave his Mate 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> and a Medal of 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> for the Intelligence he the ſaid <hi>Cumberbatch</hi> had gi<g ref="char:EOLhyphen"/>ven to Commadore <hi>Norris</hi> at St. <hi>John</hi>'s.</p>
+            <p>
+               <hi>John Bayly</hi> depoſed, That the Ship <hi>Monk,</hi> where Captain <hi>Norris</hi> was Commander, had ſeveral Bails of Linnen and Woollen, Brandy, and Wine, Haberdaſhery Ware, and Druggets on Board; and that the Bails lay between the Guns, and before the Cabbin-door, from the 21ſt to the 28th of <hi>July;</hi> and that the ſaid Ship was ſo peſtred with Goods, that ſhe was not fit to go to Sea all the while <hi>Ponti</hi> lay there; and they took the Fiſhes, Top-Maſts, and Chains, to make a Boom a-croſs the Harbour, to keep <hi>Ponti</hi> out.</p>
+            <p>
+               <hi>George Wittered</hi> alſo depoſed, That the ſaid <hi>Monk</hi> was ſo peſtred with Goods on the 21ſt of <hi>July,</hi> when <hi>Ponti</hi> appeared at the Mouth of the Harbour, that ſhe was not fit to go out; and that they took the Fiſhes, Top-Maſts, and Chains, to make a Boom to keep <hi>Pon<g ref="char:EOLhyphen"/>ti</hi> out.</p>
+            <p>We have likewiſe lookt into the Reſolution of the Council of War, of the 24th of <hi>July,</hi> 1697. which was called upon the receiving an Expreſs from the Ma<g ref="char:EOLhyphen"/>ſters of the Merchants Ships at <hi>Carboneir,</hi> of Five <hi>French</hi> Men of War being ſeen off that Port, which the Officers of the ſaid Council of War judged to be a Part of Monſieur <hi>Neſmond</hi>'s Squadron; where it was
+<pb n="4" facs="tcp:46765:5"/>
+               <!-- PDF PAGE 52 -->conſidered, Whether the Squadron ſhould go to Sea or not; to which Council of War the Land-Officers were joined; and the Queſtion being put, the Votes were as follow; every man ſigning his Opinion to his own Name.</p>
+            <list>
+               <head>Seamen.</head>
+               <item>
+                  <hi>Francis Dove,</hi> Yea.</item>
+               <item>
+                  <hi>Robert Stapilton,</hi> Yea.</item>
+               <item>
+                  <hi>James Littleton,</hi> No.</item>
+               <item>
+                  <hi>Charles Desborow,</hi> Yea.</item>
+               <item>
+                  <hi>Cooper Wade,</hi> Yea.</item>
+               <item>
+                  <hi>Roffey,</hi> No.</item>
+               <item>
+                  <hi>James Mighells,</hi> Yea.</item>
+               <item>
+                  <hi>Tho. Day,</hi> Yea.</item>
+               <item>
+                  <hi>John Cranby,</hi> Yea.</item>
+               <item>
+                  <hi>John Drake,</hi> No.</item>
+               <item>
+                  <hi>Nicholas Trevannon,</hi> No.</item>
+               <item>
+                  <hi>John Norris,</hi> Yea.</item>
+               <item>
+                  <hi>Tho. Smith,</hi> No.</item>
+            </list>
+            <list>
+               <head>Landmen.</head>
+               <item>
+                  <hi>John Gibſon,</hi> No.</item>
+               <item>
+                  <hi>Tho Dore,</hi> No.</item>
+               <item>
+                  <hi>Tho. Handuſyd,</hi> No.</item>
+               <item>
+                  <hi>Cliff. Brexton,</hi> No.</item>
+               <item>
+                  <hi>Griff. May,</hi> No.</item>
+               <item>
+                  <hi>Hugh Boyd,</hi> No.</item>
+               <item>
+                  <hi>M. Smith,</hi> No.</item>
+               <item>
+                  <hi>Joſ. Hargrave,</hi> No.</item>
+               <item>
+                  <hi>Rob. Dalyell,</hi> No.</item>
+               <item>
+                  <hi>H. Petit,</hi> No.</item>
+               <item>
+                  <hi>George Watkins,</hi> No.</item>
+            </list>
+            <p>Theſe Votes were ſigned the 24th of <hi>July,</hi> at Three of the Clock in the Afternoon; by which it was carried, That the Squadron ſhould not go to Sea.</p>
+            <p>After this We Examined all the Captains that are now in <hi>England,</hi> that had been employed on that Expe<g ref="char:EOLhyphen"/>dition; who owned the Intelligence above mentioned, but diſtruſted the Truth thereof, thinking ſtill it muſt be <hi>Neſmond,</hi> and not <hi>Ponti:</hi> And yet by an unaccountable Negligence took no care to ſend out others to be further ſatisfied of the Truth of the aforeſaid Intelligence.</p>
+            <p>As concerning the ſaid <hi>Desborow</hi>'s being broke by a Court-Martial on the 11th of <hi>Auguſt</hi> following for Neg<g ref="char:EOLhyphen"/>lect
+<pb n="5" facs="tcp:46765:5"/>
+               <!-- PDF PAGE 52 -->of Duty, and Breach of Orders; We have like<g ref="char:EOLhyphen"/>wiſe Examined as many of the Captains of that Court-Martial, as are now in <hi>England,</hi> who do not charge the ſaid <hi>Desborow</hi> with any particular Breach of Or<g ref="char:EOLhyphen"/>ders, or Neglect of Duty; but reſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rred themſelves to the Depoſitions taken at the Court-Martial for the Ground of their Reaſons for breaking the ſaid <hi>Desbo<g ref="char:EOLhyphen"/>row:</hi> Whereupon we had Reſort to the Original De<g ref="char:EOLhyphen"/>poſitions then taken upon Oath; and Firſt of <hi>John Stoneman,</hi> the Maſter of Your Majeſty's ſaid Ship, <hi>Mary Galley;</hi> which ſaith, That having Sailed out of St. <hi>John</hi>'s Harbour on <hi>Monday</hi> the Six and twentieth Day of <hi>July,</hi> they Steered to the <hi>Northward,</hi> and on the Seven and twentieth of the ſame, they gave Chace to Three ſmall Sail, one whereof proved to be the <hi>Lisbon</hi> Merchant. Captain <hi>Sookes</hi> Commander, who came that Morning from <hi>Carbonier,</hi> and acquainted them, That the Night before there was taken a <hi>French</hi> Man of War's Boat, with ſeveral Priſoners; and that Cap<g ref="char:EOLhyphen"/>tain <hi>Littleton</hi> was gone thence with them to St. <hi>John</hi>'s: Alſo that there were Five Sail of <hi>French</hi> Men of War then at <hi>Anchor</hi> in <hi>Conception Bay:</hi> He further depoſeth, That on the Eight and twentieth they ſaw them at about Four Miles diſtance from them; that the biggeſt of them had a White Flag at Main-top Maſt-Head, which he judged to be a Ship of about 80 Guns under Sail; That thereupon they made the beſt of their way to St. <hi>John</hi>'s Harbour, to acquaint the Commander in Chief with it; That they plyed off and on, off St. <hi>John</hi>'s till the 29th; when they Sailed again to the <hi>Northward,</hi> the Wind at <hi>South Weſt</hi> and by <hi>Weſt,</hi> and the Weather very Foggy; That at 11 that Night they fell in with the aforeſaid Five Sail near Cape St. <hi>Francis;</hi> That the Sternmoſt of them Fired a Gun, and made falſe Fires. Upon which all their Lights were put out immediately,
+<pb n="6" facs="tcp:46765:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 53 -->and they loſt ſight of them, it being hazy Weather; That they ſtood upon a Wind till it clear'd, which was about 2 in the Morning, when the Wind coming out at <hi>N. N. E.</hi> and ſeeing no Sail, they ſtood in for <hi>Car<g ref="char:EOLhyphen"/>bonier</hi> to gain Intelligence if thoſe Ships had done any Injury there; That their Captain went a-ſhore, and re<g ref="char:EOLhyphen"/>turned at 9 at Night, and brought a <hi>French</hi> Priſoner with him; which had been taken in the forementioned Boat. He further adds, That that Night about 12 a Clock the Current ſet them ſo near to the Shoar, that <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey were obliged to come to an Anchor till 3 in the Morning, when they weighed and made Sail for St. <hi>John</hi>'s; but the Wind being contrary, they got not off that Harbour till the 31ſt, when their Captain went into the Harbour in his Boat, to acquaint the Commander in Chief with what Intelligence he had learnt.</p>
+            <p>Mr. <hi>John Crow,</hi> Lieutenant of Your Majeſty's ſaid Ship <hi>Mary Galley, John Car,</hi> and <hi>Nicholas Bundocks</hi> Mates of Your Majeſty's ſaid Ship, in their ſeveral De<g ref="char:EOLhyphen"/>poſitions ſay near to the ſame Effect.</p>
+            <p>Mr. <hi>Arthur Baſs,</hi> Lieutenant of Your Majeſty's Ship <hi>Monk,</hi> doth depoſe upon Oath, That being ſent by Captain <hi>John Norris,</hi> Commander in Chief of Your Majeſty's Ships in <hi>Newfoundland,</hi> to get Intelligence from the <hi>Northern</hi> Parts of the Coaſts, on the 28th of <hi>July,</hi> under <hi>Bell-Iſle,</hi> he ſaw Five Ships which he was informed by the Inhabitants of that place were <hi>French</hi> Ships, Men of War; and that he did at the ſame time ſee in the <hi>Bay</hi> Your Majeſty's Ship the <hi>Mary Galley,</hi> and to the beſt of his Judgment ſhe was from 6 to 8 a Clock no nearer to the <hi>French</hi> Ships than two or three Leagues.</p>
+            <p>Which being the only Depoſition that charges <hi>Desbo<g ref="char:EOLhyphen"/>row</hi> with being at that diſtance from the <hi>French</hi> Ships,
+<pb n="7" facs="tcp:46765:6"/>
+               <!-- PDF PAGE 53 -->We muſt obſerve, That the ſaid <hi>Baſs</hi> was not on Board the ſame Ship with <hi>Desborow,</hi> which the other Four Deponents were; and beſides, the ſaid <hi>Cumberbatch,</hi> who was then Aboard <hi>Ponty</hi>'s Ships, does depoſe, That on the 28th of <hi>July</hi> (as he believes it was) he ſaw a Fri<g ref="char:EOLhyphen"/>gat-built Ship of 36 Guns which he took for <hi>Engliſh;</hi> which Ship in truth proved to be the ſaid <hi>Mary Galley;</hi> ſo that it does not appear to us, That any Breach of Or<g ref="char:EOLhyphen"/>ders, or Neglect of Duty, could juſtly be charged up<g ref="char:EOLhyphen"/>on the Petitioner <hi>Charles Desborow:</hi> Whereupon this Houſe proceeded to Paſs the Three following Votes. <hi>(viz.)</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="resolutions">
+                        <p n="1">I. It is Reſolved <hi>by the Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral in Parliament Aſſembled, That it is the Opinion of this Houſe, That Captain</hi> Charles Desborow <hi>was unjuſtly broken; and alſo that an Humble Addreſs be Preſented to His Majeſty from this Houſe, That he may be reſtored to His Majeſty's Favour, and his own juſt Rights.</hi>
+                        </p>
+                        <p n="2">II. It is Reſolved, <hi>That the Squadron Commanded by Captain</hi> Norris, <hi>at St.</hi> John<hi>'s in</hi> Newfoundland, <hi>not going out to ſight</hi> Ponti <hi>upon the ſeveral Intelligences gi<g ref="char:EOLhyphen"/>ven, was a very high miſcarriage, to the great Diſſervice of the King and Kingdom.</hi>
+                        </p>
+                        <p n="3">III. It is Reſolved, <hi>That the joining the Land-Officers with the Sea Officers in the Council of War of the</hi> 24th <hi>of</hi> July, 1697. <hi>was one occaſion of the Miſcarriage in not fighting</hi> Ponti.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>All which, according to our Duty, we lay before Your Majeſty, to the end Your Majeſty may be plainly and impartially informed of the great Miſcarriage in that Expedition, and the true Cauſe and Ground of it; not doubting, but that Your-Majeſty upon a ſerious Reflection of this our Humble Repreſentation, will give
+<pb n="8" facs="tcp:46765:7"/>
+               <!-- PDF PAGE 54 -->effectual Orders for the Redreſſing and Recompencing this poor Man's Grievances and Sufferings in particular, and for Vindicating the Reputation of Your own Ser<g ref="char:EOLhyphen"/>vice both at Home and Abroad, which we are ſenſible hath extremely ſuffered on this Occaſion, and for pre<g ref="char:EOLhyphen"/>venting the like diſcredit, damage, and miſmanagement for the future.</p>
+            <p>And whereas ſeveral Matters of very great Conſe<g ref="char:EOLhyphen"/>quence, have been throughout the courſe of theſe Exa<g ref="char:EOLhyphen"/>minations Sworn againſt Captain <hi>Norris,</hi> which we for<g ref="char:EOLhyphen"/>bear to enter into a more particular Enquiry of, becauſe the ſaid Captain <hi>Norris</hi> was not here to anſwer for him<g ref="char:EOLhyphen"/>ſelf: We humbly deſire, That Your Majeſty would give effectual Orders that the ſaid Captain <hi>Norris</hi> be forthwith Remanded, and ordered to Attend this Houſe the next Seſſion of Parliament, to Anſwer ſuch Matters as have been now objected againſt him: And that in the mean time the ſaid Captain <hi>Norris</hi> may be ſuſpended from his Employment in Your Majeſty's Service.</p>
+         </div>
+         <div type="answer">
+            <head>
+               <date>
+                  <hi>Die Veneris</hi> 21 April. 1699.</date>
+            </head>
+            <p>The Earl of <hi>Bradford</hi> Reported His Majeſty's An<g ref="char:EOLhyphen"/>ſwer to the Addreſs Relating to Captain <hi>Desborow</hi> as follows:
+<q>THAT His Majeſty will Conſider of the Addreſs, and give the neceſſary Directions in order to what the Houſe deſires.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46765:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+         </div>
+      </body>
+   </text>
+</TEI>
